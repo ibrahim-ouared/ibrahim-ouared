@@ -1,10 +1,7 @@
-<h1 data-importer="text" align="center">Hey 👋</h1>
+<h1 data-importer="text" align="center">Hey...I'm 𝑰𝒃𝒓𝒂𝒉𝒊𝒎 𝑶𝒖𝒂𝒓𝒆𝒅 👋</h1>
 
 ###
 
-<p data-importer="text" align="left">My name is 𝑰𝒃𝒓𝒂𝒉𝒊𝒎 𝑶𝒖𝒂𝒓𝒆𝒅</p>
-
-###
 
 <h2 data-importer="text" align="left">About me</h2>
 
